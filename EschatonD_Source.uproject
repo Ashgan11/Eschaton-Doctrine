@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
+	"EngineAssociation": "{08311A7C-4B22-59BE-2D8F-88BE4F9F16DB}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -19,5 +19,8 @@
 			"Name": "AdvancedSteamSessions",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
